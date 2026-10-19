@@ -9,3 +9,4 @@ Stranica s više sekcija u Vue. Kafić ima modernu toplu i ugodnu atmosferu i st
 - Što sam dodao u AGENTS.md: Dodao sam naziv, zajednicu i opis
 - Provjera: Provjerio sam stranicu u pregledniku i izrađeno
 - Commit:
+94ae97e
