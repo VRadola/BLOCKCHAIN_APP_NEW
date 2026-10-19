@@ -1,6 +1,7 @@
 # Pravila projekta
 
 ## Projekt
+<<<<<<< HEAD
 - Naziv: Kod none
 - Zajednica: kafić "Kod none"
 - Opis: Web stranica kafića "Kod none" (predstavljanje, meni, radno vrijeme i kontakt) s budućim programom vjernosti na blockchainu, namijenjena gostima kafića.
